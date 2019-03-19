@@ -1,0 +1,8 @@
+{
+  "name": "express-hostname-header",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/reges-hq/express-hostname-header.git",
+  "author": "reges-hq",
+  "license": "MIT"
+}
